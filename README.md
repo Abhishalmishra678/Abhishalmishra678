@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abhishal mishra  👋
 
-<!--
-**Abhishalmishra678/Abhishalmishra678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | ETL, Data Visualization, Machine Learning, SQL, Python,analytical thinking ]
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about turning data into actionable insights to help businesses make informed decisions. I have experience working with various tools and technologies to clean, analyze, and visualize data. Check out some of my projects below!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+
+- **Languages**: Python, SQL
+- **Data Analysis Libraries**: pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Database**: MySQL, MsSQL, SQLite
+- **Visualization Tools**: Power BI, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-Learn, Keras
+- **Others**: Excel, Git, Jupyter Notebook, google colab
+
+---
+
+- [LinkedIn](https://www.linkedin.com/in/abhishalmishra678/)
+- [Email](abhishalmishra678@gmail.com)
+
+---
+
+serching for challenging opportunities.
